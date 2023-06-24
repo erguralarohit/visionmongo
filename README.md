@@ -12,6 +12,7 @@ $ docker push rohitergurala/visionmongo
 ## Deployment
 
 You can deploy all your apps by running the below bash command:
+Testing:
 
 ```
 ./kubectl-apply.sh
